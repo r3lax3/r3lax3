@@ -13,6 +13,6 @@
 
 // Мои проекты без публичного кода
 
-https://t.me/AstroPulse_bot
-https://t.me/chat_gpt_bro_bot
-https://telegator.ru
+https://t.me/AstroPulse_bot <br>
+https://t.me/chat_gpt_bro_bot <br>
+https://telegator.ru <br>
